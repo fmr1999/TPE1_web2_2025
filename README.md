@@ -1,3 +1,6 @@
+////////////////////////// SE CREO UN NUEVO REPOSITORIO PARA LA PARTE 2 https://github.com/fmr1999/TPE2_web2_2025 ////////////////
+
+
 Integrantes: Facundo Machado , email :machadofacundo960@gmail.com, Maximiliano machado , email :maaxy14@gmail.com.
 
 Tematica : listado o biblioteca musical.
